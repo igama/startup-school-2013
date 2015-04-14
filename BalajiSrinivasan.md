@@ -1,5 +1,7 @@
 ## Balaji Srinivasan — Founder, Counsyl; Lecturer, Stanford startup MOOC
 
+http://youtu.be/cOubCHLXT6A
+
 Let's talk about something different today: Silicon Valley's Ultimate Exit.
 
 The US is like Microsoft. In 1998, when Microsoft appeared impregnable, they were most scared of someone doing something completely new in a garage. Larry and Sergey had to start their own company to actually make a difference.
@@ -16,7 +18,7 @@ The ultimate counterargument is exit, to build an opt-in society, outside the US
 
 The most important things in the next ten years are to use technology to reduce the barriers to exit, to build a world run by software.
 
-Sign up for the next startup MOOC for technological details.
+Sign up for the [Startup Engineering MOOC watchlist](https://www.coursera.org/course/startup) for technological details.
 
 ---
 
